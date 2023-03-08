@@ -10,7 +10,7 @@
 <body>
     <header class="bg-primary text-while py-3">
         <div class="container d-flex justify-content-between align-items-center">
-            <h1 class="mb-0">Dang Ky Chuyen Nganh</h1>
+            <h1 class="mb-0">Đăng Ký Chuyên Ngành</h1>
             <nav>
                 <a href="?r=register" class="text-while py-3">Dang Ky</a>
                 <a href="?r=list" class="text-while py-3">Xem danh sach dang ky</a>
